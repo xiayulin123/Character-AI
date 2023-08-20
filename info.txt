@@ -1,1 +1,2 @@
 use clerk for authentication
+use shadcn/ui ui

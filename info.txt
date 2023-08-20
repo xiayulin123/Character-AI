@@ -1,2 +1,5 @@
 use clerk for authentication
 use shadcn/ui ui
+prisma
+planetscale: db
+cloudinary

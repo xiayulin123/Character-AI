@@ -3,3 +3,10 @@ use shadcn/ui ui
 prisma
 planetscale: db
 cloudinary
+
+npm i @pinecone-database/pinecone
+langchain
+upstash create database
+use this for memory
+
+stripe for upgrade

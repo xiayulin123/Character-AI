@@ -216,7 +216,7 @@ export const CharacterForm = ({ categories, initialData }: CharacterFormProps) =
                                     <Textarea disabled={isLoading} rows={7} className="bg-background resize-none" placeholder={PREAMBLE} {...field} />
                                 </FormControl>
                                 <FormDescription>
-                                    Describe in detail your companion&apos;s backstory and relevant details.
+                                    Describe in detail your character&apos;s backstory and relevant details.
                                 </FormDescription>
                                 <FormMessage />
                             </FormItem>
@@ -232,7 +232,7 @@ export const CharacterForm = ({ categories, initialData }: CharacterFormProps) =
                                     <Textarea disabled={isLoading} rows={7} className="bg-background resize-none" placeholder={SEED_CHAT} {...field} />
                                 </FormControl>
                                 <FormDescription>
-                                    Write couple of examples of a human chatting with your AI companion, write expected answers.
+                                    Write couple of examples of a human chatting with your AI character, write expected answers.
                                 </FormDescription>
                                 <FormMessage />
                             </FormItem>

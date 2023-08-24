@@ -24,10 +24,10 @@ export async function POST(
       return new NextResponse("Unauthorized", { status: 401 });
     }
 
-    const isPro = await checkSubscription()
-    if(!isPro){
-      return new NextResponse("Pro subscription required", {status: 403})
-    }
+    // const isPro = await checkSubscription()
+    // if(!isPro){
+    //   return new NextResponse("Pro subscription required", {status: 403})
+    // }
 
     const identifier = request.url + "-" + user.id;
     const { success } = await rateLimit(identifier);

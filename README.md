@@ -27,6 +27,7 @@ Explore the project's standout features:
 
 
 <h2>🌟 Soft Skills</h2>
+
 *  Creativity Unleashed:🤝 Our team thrives on fostering creative solutions, allowing you to breathe life into characters that reflect your imagination.
 
 *  User-Centric Approach:👥 Character AI is designed with you in mind. We prioritize user experience, enabling effortless character creation and interactions.

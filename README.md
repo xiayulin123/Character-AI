@@ -37,3 +37,19 @@ Explore the project's standout features:
 *  Empathy in Engagement:🎨 We understand the value of meaningful interactions. Through AI, we bridge the gap between humans and technology, fostering empathetic engagement.
 
 <h2>🎥 Demo</h2>
+
+Main Page
+
+![main](https://github.com/xiayulin123/Character-AI/blob/main/myself.png)
+
+Communication with myself
+
+![myself](https://github.com/xiayulin123/Character-AI/blob/main/myselftalk.png)
+
+Spongebob
+
+![Spongebob](https://github.com/xiayulin123/Character-AI/blob/main/games.png)
+
+Communication with Spongebob
+
+![spongebob talk](https://github.com/xiayulin123/Character-AI/blob/main/spongepng.png)

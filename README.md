@@ -19,18 +19,20 @@ Explore the project's standout features:
 
 <h2>🛠️ Technical Skills</h2>
 
-*  Database Prowess: Leverage PlanetScale to guarantee efficient and dependable data storage, underpinning the seamless operation of Character AI.
-*  Visual Enhancement: Integration with Cloudinary facilitates the programmatic addition of images, enhancing the visual appeal of your AI characters.
-*  Long-Term Memory Handling: Pinecone takes center stage to endow AI chatbots with enduring memory, enabling them to engage in context-aware conversations.
-*  Communication Model Access: Langchain empowers to access meticulously trained communication models, ensuring that your AI chatbots engage users with authenticity and depth.
-*  Communication Settings Management: Through Upstash, it creates a robust communication settings database, enhancing the customization and control you have over your AI characters' interactions.
+*  Database Prowess:🗄️ Leverage PlanetScale to guarantee efficient and dependable data storage, underpinning the seamless operation of Character AI.
+*  Visual Enhancement:📷 Integration with Cloudinary facilitates the programmatic addition of images, enhancing the visual appeal of your AI characters.
+*  Long-Term Memory Handling:🧠 Pinecone takes center stage to endow AI chatbots with enduring memory, enabling them to engage in context-aware conversations.
+*  Communication Model Access:🗣️ Langchain empowers to access meticulously trained communication models, ensuring that your AI chatbots engage users with authenticity and depth.
+*  Communication Settings Management:📊 Through Upstash, it creates a robust communication settings database, enhancing the customization and control you have over your AI characters' interactions.
 
 
-<h2> Soft Skills</h2>
-*  Creativity Unleashed: Our team thrives on fostering creative solutions, allowing you to breathe life into characters that reflect your imagination.
+<h2>🌟 Soft Skills</h2>
+*  Creativity Unleashed:🤝 Our team thrives on fostering creative solutions, allowing you to breathe life into characters that reflect your imagination.
 
-*  User-Centric Approach: Character AI is designed with you in mind. We prioritize user experience, enabling effortless character creation and interactions.
+*  User-Centric Approach:👥 Character AI is designed with you in mind. We prioritize user experience, enabling effortless character creation and interactions.
 
-*  Collaborative Spirit: Collaboration is at our core. We've pooled diverse talents to create a platform that melds technology and storytelling seamlessly.
+*  Collaborative Spirit:🧑‍💼 Collaboration is at our core. We've pooled diverse talents to create a platform that melds technology and storytelling seamlessly.
 
-*  Empathy in Engagement: We understand the value of meaningful interactions. Through AI, we bridge the gap between humans and technology, fostering empathetic engagement.
+*  Empathy in Engagement:🎨 We understand the value of meaningful interactions. Through AI, we bridge the gap between humans and technology, fostering empathetic engagement.
+
+<h2>🎥 Demo</h2>

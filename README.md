@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Character AI</h1>
 <p id="description">Welcome to the realm of Character AI, where imagination and technology converge to enable you to craft your very own AI chatbots. the platform is a gateway to creating dynamic virtual characters that engage in meaningful conversations. Whether you wish to chat with historical figures, iconic personalities, or fictional heroes, Character AI empowers you to bring them to life through the magic of artificial intelligence.</p>
 
-  [Click Here to visite](https://character-ai.digital) 
+  [Click Here to visite the project website](https://character-ai.digital) 
 
 <h2>🧐 Features</h2>
 
